@@ -1,0 +1,14 @@
+C:\Users\sergi\Desktop\DFSM\FSM_Simple\bin\Debug\FSM_Simple.exe
+C:\Users\sergi\Desktop\DFSM\FSM_Simple\bin\Debug\FSM_Simple.pdb
+C:\Users\sergi\Desktop\DFSM\FSM_Simple\obj\Debug\FSM_Simple.csprojResolveAssemblyReference.cache
+C:\Users\sergi\Desktop\DFSM\FSM_Simple\obj\Debug\FSM_Simple.exe
+C:\Users\sergi\Desktop\DFSM\FSM_Simple\obj\Debug\FSM_Simple.pdb
+C:\Users\sergi\Desktop\DFSM\FSM_Simple\obj\Debug\FSM_Simple.Dibujo.resources
+C:\Users\sergi\Desktop\DFSM\FSM_Simple\obj\Debug\FSM_Simple.csproj.GenerateResource.Cache
+C:\Users\sergi\Desktop\Proyecto final\FSM_Simple\obj\Debug\FSM_Simple.exe
+C:\Users\sergi\Desktop\Proyecto final\FSM_Simple\obj\Debug\FSM_Simple.pdb
+C:\Users\sergi\Desktop\Proyecto final\FSM_Simple\bin\Debug\FSM_Simple.exe
+C:\Users\sergi\Desktop\Proyecto final\FSM_Simple\bin\Debug\FSM_Simple.pdb
+C:\Users\sergi\Desktop\Proyecto final\FSM_Simple\obj\Debug\FSM_Simple.csprojResolveAssemblyReference.cache
+C:\Users\sergi\Desktop\Proyecto final\FSM_Simple\obj\Debug\FSM_Simple.Dibujo.resources
+C:\Users\sergi\Desktop\Proyecto final\FSM_Simple\obj\Debug\FSM_Simple.csproj.GenerateResource.Cache
